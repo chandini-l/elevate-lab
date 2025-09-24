@@ -1,2 +1,3 @@
 # elevate-lab
-data analysis
+data cleaning and removing null values
+
